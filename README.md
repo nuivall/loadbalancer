@@ -1,5 +1,5 @@
 # About
-This is an excersie toy-load-balancer project.
+This is an exercise toy-load-balancer project.
 
 # Running
 - `go run main.go`
